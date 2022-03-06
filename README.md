@@ -45,3 +45,13 @@
   ![Snake animation](https://github.com/thaizakopp/thaizakopp/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+### Voltem sempre 😄
+<div>
+  
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=thaizakopp&left_color=purple&right_color=blue)
+
+</div>
+
+
+
