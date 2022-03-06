@@ -47,11 +47,12 @@
 </div>
 
 ### Voltem sempre 😄
-<div>
-  
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=thaizakopp&left_color=purple&right_color=blue)
 
-</div>
+[![Visits Badge](https://badges.pufler.dev/visits/thaizakopp/thaizakopp)](https://github.com/thaizakopp)
 
-
-
+<!--
+<p align="center">
+  Profile Views<br>
+  <img src="https://profile-counter.glitch.me/thaizakopp/count.svg" />
+</p>
+-->
