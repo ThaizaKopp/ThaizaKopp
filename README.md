@@ -15,7 +15,7 @@
 </a>
 <br></br>
 
-- ✨ Atualmente Analista de Negócios e Requisitos 
+- ✨ Atualmente Analista de Requisitos 
 - 🤓 Colocando pra jogo meus conhecimentos em UX/UI e Design
 - 💻 Entusiasta em desenvolvimento web front-end
 - 🕮 Estudando JavaScript
