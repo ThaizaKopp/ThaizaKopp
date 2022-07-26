@@ -1,4 +1,4 @@
-## Olá! Que bom ter você por aqui! 
+## Hey, olá!
 ### Me chamo Thaíza, muito prazer!
 
 #### Seja bem-vindo(a) ao Tataverso 
@@ -10,12 +10,9 @@
 <a href="https://www.linkedin.com/in/thaiza-kopp/">
   <img align="left" alt="Thaíza's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/playlist/7q4rNZ2I2Pucg5QpXGlvBG">
-  <img align="left" alt="Thaíza's creation playlist on Spotify " width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 <br></br>
 
-- ✨ Atualmente Analista de Requisitos 
+- ✨ Atualmente Product Owner
 - 🤓 Colocando pra jogo meus conhecimentos em UX/UI e Design
 - 💻 Entusiasta em desenvolvimento web front-end
 - 🕮 Estudando JavaScript
@@ -46,12 +43,3 @@
 </div>
 
 ### Voltem sempre 😄
-
-[![Visits Badge](https://badges.pufler.dev/visits/thaizakopp/thaizakopp)](https://github.com/thaizakopp)
-
-<!--
-<p align="center">
-  Profile Views<br>
-  <img src="https://profile-counter.glitch.me/thaizakopp/count.svg" />
-</p>
--->
